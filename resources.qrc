@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/edit.png</file>
+        <file>icons/file.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/function.png</file>
+        <file>icons/login.png</file>
+        <file>icons/management.png</file>
+        <file>icons/safety.png</file>
+        <file>icons/save.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/user.png</file>
+        <file>icons/group.png</file>
+        <file>icons/search.png</file>
+        <file>icons/open.png</file>
+    </qresource>
+</RCC>
